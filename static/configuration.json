@@ -5,7 +5,7 @@
     "htmlTitle": "SmallKunKun's Blog",
     "fontColor": "#ffffff",
     "useBackgroundImage": true,
-    "BackgroundImageUrl": "https://cn.bing.com/th?id=OHR.StDwynwensDay_ZH-CN3187096355_1920x1080.jpg&rf=LaDigue_1920x1080.jpg",
+    "BackgroundImageUrl": "https://cdn.jsdelivr.net/gh/SmallKunKun/Photo/wallhaven-k979xq.jpg",
     "mini": false,
     "webSites":[
         {"name":"Blog" , "url":"https://kunkun.js.org"}
